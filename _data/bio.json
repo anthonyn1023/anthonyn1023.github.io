@@ -86,16 +86,13 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "AccesSurf",
+      "website": "https://www.accessurf.org/",
+      "position": "Volunteer",
+      "startDate": "2024-10-05, ",
+      "endDate": "",
+      "summary": "Prepare and serve snacks and lunch for both volunteers and participants.",
+      "highlights": []
     },
     {
       "organization": "",
@@ -105,9 +102,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Ballroom Dance, 2024-Present",
       ]
     }
   ],
