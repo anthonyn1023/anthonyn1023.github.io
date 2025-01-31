@@ -36,7 +36,6 @@
       "startDate": "2022",
       "endDate": "Present",
       "courses": ["ICS 111",
-          "ICS 111",
           "ICS 141",
           "ICS 211",
           "ICS 212",
@@ -55,7 +54,7 @@
       "endDate": "Present",
       "summary": ["Provide front-line support for Student Housing residents.",  
                   "Assist housing staff with various projects, including software development, hardware repair, and maintenance."]
-      "highlights":"",
+      "highlights":""
     },
     {
       "company": "McDonalds",
