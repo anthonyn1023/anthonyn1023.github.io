@@ -11,7 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Why ask smart questions?
 
@@ -23,7 +22,8 @@ A "smart" question shows you've done your homework. Before asking, it’s import
 
 ## Example of a smart question.
 
-image
+![image](https://github.com/user-attachments/assets/6bce0b40-a147-4df8-944c-18608f22bdf1)---
+
 
 This is a smart question because give more context on what’s being worked on. Even though it’s short, the question is clear and easy to understand. It follows important rules for asking good questions, like being clear about the goal, giving examples, and sharing the user’s experience. These things make it easier for others to join the conversation and offer useful answers.
 
