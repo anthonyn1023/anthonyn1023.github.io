@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Exploring the Path of Software Engineering: Creativity, Growth, and Collaboration"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-30
+date: 2025-01-25
 published: true
 labels:
   - Software Engineering
