@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6bce0b40-a147-4df8-944c-18608f22bdf1)---
 layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
