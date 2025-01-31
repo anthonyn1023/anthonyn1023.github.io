@@ -10,7 +10,7 @@
     "location": { "address": "94-533 Ohepio Pl.", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "anthonyn1023", "url": "http://github.com/anthonyn1023" },
-      { "network": "linkedin", "username": "anthonyn1023", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "anthonyn1023", "url": "http://linkedin.com/in/anthonyn1023" }
     ]
   },
   "interests": [
@@ -114,9 +114,9 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "date": "Spring 2023",
+      "awarded": " University of Hawaii at Manoa",
+      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [
