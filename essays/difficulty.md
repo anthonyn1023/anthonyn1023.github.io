@@ -1,54 +1,38 @@
----
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-01-30
+published: true
 labels:
-  - Engineering
+  - Questions
+  - Answers
+  - StackOverflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Why ask smart questions?
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Asking smart questions is important for effective communication and problem-solving. In technical communities, well-crafted questions demonstrate that the person asking has conducted careful research and is  engaged with the topic. This approach enables more accurate and helpful responses and fosters a collaborative environment where knowledge is shared efficiently. By posing clear, concise, and relevant questions, people can avoid misreadings and contribute meaningfully to discussions, improving Stack Overflow's overall quality. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## What makes a smart question a smart question?
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+A "smart" question shows you've done your homework. Before asking, it’s important to check out resources like manuals, forums, and FAQs to see if the answer is already out there. It saves time and lets you ask a more focused question. When you provide details and context, it’s easier for others to give you helpful, accurate answers. Taking the time to prepare your question also helps make the conversation more efficient and productive.
 
-Here's what I think: the difficult things will always be difficult.
+## Example of a smart question.
 
-## In the context of programming
+![image](https://github.com/user-attachments/assets/6bce0b40-a147-4df8-944c-18608f22bdf1)---
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+This is a smart question because give more context on what’s being worked on. Even though it’s short, the question is clear and easy to understand. It follows important rules for asking good questions, like being clear about the goal, giving examples, and sharing the user’s experience. These things make it easier for others to join the conversation and offer useful answers.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## Example of a bad question.
 
-## In the context of engineering
+>>> “Why is my code not working? Help!”
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+This is a bad question. First, it doesn't say what the user tries to do or the problem. There are no details or examples, like code or an explanation of what’s happening, so it's hard for others to help. The user also doesn’t mention what they’ve already tried or what they expect to happen. Finally, the question is too broad and doesn’t give enough information, making it hard for anyone to provide a helpful answer.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Conclusion
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+In conclusion, asking clear and well-thought-out questions is key to getting helpful answers, especially in online communities like Stack Overflow. By making sure your question is specific, includes relevant details, and shows you've done some research, you make it easier for others to understand and help you. A little effort in framing your question can lead to better answers and a more productive conversation. Asking good questions benefits everyone by saving time and getting straight to the solution.
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
