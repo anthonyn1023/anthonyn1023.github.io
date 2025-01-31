@@ -51,25 +51,23 @@
       "company": "University of Hawaii at Manoa",
       "position": "ResNet Support Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-04-01",
       "endDate": "Present",
       "summary": ["Provide front-line support for Student Housing residents.",  
                   "Assist housing staff with various projects, including software development, hardware repair, and maintenance."]
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "highlights":"",
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "McDonalds",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2021-06-23",
+      "endDate": "2022-07-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conducted accurate sales transactions in-store and on drive-thru shifts efficiently and on time.",
+        "Cleaned assigned work areas, dining tables, and serving counters, meeting established quality standards.",
+        "Replenished and stocked service stations, cabinets, and tables and followed safety protocols to ensure an enjoyable dining experience."
       ]
     }
   ],
