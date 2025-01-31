@@ -54,9 +54,9 @@
   "endDate": "Present",
   "summary": [
     "Provide front-line support for Student Housing residents.",
-    "Assist housing staff with various projects, including software development, hardware repair, and maintenance."
+    " Assist housing staff with various projects, including software development, hardware repair, and maintenance."
   ],
-  "highlights": []
+  "highlights": ["]
 },
     {
       "company": "McDonalds",
@@ -99,7 +99,7 @@
       ]
     }
   ],
-  "awards": [
+  /**"awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -112,7 +112,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],**/
   "references": [
     {
       "name": "Available upon request"
