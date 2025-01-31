@@ -46,16 +46,18 @@
     }
   ],
   "work": [
-    {
-      "company": "University of Hawaii at Manoa",
-      "position": "ResNet Support Assistant",
-      "website": "",
-      "startDate": "2024-04-01",
-      "endDate": "Present",
-      "summary": ["Provide front-line support for Student Housing residents.",  
-                  "Assist housing staff with various projects, including software development, hardware repair, and maintenance."]
-      "highlights":""
-    },
+   {
+  "company": "University of Hawaii at Manoa",
+  "position": "ResNet Support Assistant",
+  "website": "",
+  "startDate": "2024-04-01",
+  "endDate": "Present",
+  "summary": [
+    "Provide front-line support for Student Housing residents.",
+    "Assist housing staff with various projects, including software development, hardware repair, and maintenance."
+  ],
+  "highlights": []
+},
     {
       "company": "McDonalds",
       "position": "Crew Member",
