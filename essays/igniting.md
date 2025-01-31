@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Exploring the Path of Software Engineering: Creativity, Growth, and Collaboration"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true
