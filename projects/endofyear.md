@@ -6,8 +6,7 @@ title: "End of The Year Video For ROTC"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Video Production
 summary: "A video that I lead for a end of the year video for ROTC"
 ---
 
