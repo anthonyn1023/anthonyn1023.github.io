@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Screenshot 2025-01-31 at 3.07.59 PM.png
 title: "End of The Year Video For ROTC"
 date: 2014
 published: true
