@@ -16,7 +16,10 @@ Solution: Create a website to reserve courts in the gym so that it's more organi
 Maya Buchanan, Alan Reeves, Anthony Nguyen, Simon Lin, Angelo Rosal.
 
 ## Page Ideas
-A page with a login and input would be the user's input and password. If no login, another page would be to make a login. Looking for a team page(back-end match people together). Schedule page for times reserved and support (separate pages for each sport). Page for the queue (list of all the teams in order)
+- A page with a login and input would be the user's input and password. If no login, another page would be to make a login.
+-  Looking for a team page(back-end match people together).
+-  Schedule page for times reserved and support (separate pages for each sport).
+-  Page for the queue (list of all the teams in order)
 
 ## Case Ideas
 
