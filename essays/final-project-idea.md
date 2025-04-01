@@ -17,3 +17,7 @@ Maya Buchanan, Alan Reeves, Anthony Nguyen, Simon Lin, Angelo Rosal.
 
 ## Page Ideas
 A page with a login and input would be the user's input and password. If no login, another page would be to make a login. Looking for a team page(back-end match people together). Schedule page for times reserved and support (separate pages for each sport). Page for the queue (list of all the teams in order)
+
+## Case Ideas
+
+New user goes to landing page, logs in, gets home page, a sets up profile. (How do they learn how system works?)
