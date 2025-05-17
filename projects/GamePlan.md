@@ -14,7 +14,7 @@ summary: "A web app that enables UH Mānoa students to reserve volleyball or bas
 ---
 
 <p align="center">
-  <img src="img/gameplan/gameplan-full.png" alt="GamePlan Screenshot" width="80%">
+  <img src="img/gmaeplan screenshot.png" width="80%">
 </p>
 
 ## GamePlan - Web App
