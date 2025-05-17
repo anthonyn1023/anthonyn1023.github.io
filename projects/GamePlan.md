@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gameplan/gameplan-square.png
+image: img/gmaeplan screenshot.png
 title: "GamePlan - Web App"
 date: 2025
 published: true
